@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\obj\Debug\if and else.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\obj\Debug\if and else_MarkupCompile.cache
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\obj\Debug\if and else_MarkupCompile.lref
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\bin\Debug\if and else.exe.config
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\bin\Debug\if and else.exe
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\bin\Debug\if and else.pdb
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\obj\Debug\if and else.g.resources
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\obj\Debug\if_and_else.Properties.Resources.resources
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\obj\Debug\if and else.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\obj\Debug\if and else.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\obj\Debug\if and else.exe
+C:\Users\Admin\Documents\VSC PROJECTS\Temp Learning Projects\if and else\if and else\obj\Debug\if and else.pdb
